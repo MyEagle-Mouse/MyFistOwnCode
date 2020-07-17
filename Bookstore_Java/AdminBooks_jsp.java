@@ -13,6 +13,7 @@ public class AdminBooks_jsp extends HttpJspBase {
 
   static final int UNDEFINT=Integer.MIN_VALUE;
   static final int adss = 8;
+  static final int adss2 = 8;
 
   static final int adText = 1;
   static final int adDate = 2;
